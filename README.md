@@ -5,4 +5,4 @@ Plot shows that temperature variation equals 4 degrees Farenheit.
 
 Dataset : http://climate.colostate.edu/data_access.html
 
-Code based in the author: https://github.com/whatdamath/spaceengine/ 
+Credits/Code based in the author: https://github.com/whatdamath/spaceengine/ 
